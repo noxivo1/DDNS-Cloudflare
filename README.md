@@ -17,8 +17,8 @@ Diseñado para **Debian / Ubuntu**. Usa `systemd timer` + `cron` como respaldo.
 ## 🚀 Instalación rápida
 
 ```bash
-git clone https://github.com/TU_USUARIO/TU_REPO.git
-cd TU_REPO
+git clone https://github.com/noxivo1/DDNS-Cloudflare.git
+cd DDNS-Cloudflare
 sudo bash install.sh
 ```
 
